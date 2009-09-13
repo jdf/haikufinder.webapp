@@ -1,0 +1,42 @@
+body {
+	background-color: #eee;
+	font: 13pt/ 16pt Calibri, sans-serif;
+}
+
+#results {
+	padding: .25em 1em 1em 2em;
+	width: 30em;
+	margin-right: auto;
+	background-color: #eeffee;
+	margin-bottom: 2em;
+}
+
+.haiku {
+	margin-top: 2em;
+}
+
+.secondline {
+	margin-left: 2.5em;
+}
+
+p {
+	width: 30em;
+	margin-top: 0;
+	margin-bottom: 1em;
+}
+
+form {
+	margin: 0;
+	padding: 0
+}
+
+h1 {
+	margin: 0 0 1em 0
+}
+
+#main {
+	width: 840px;
+	margin: auto;
+	padding: 1em;
+	background-color: white;
+}
